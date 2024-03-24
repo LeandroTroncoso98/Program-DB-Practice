@@ -35,7 +35,8 @@
       * CAMPOS DE ENTRADA
        01 WS-ENTRADA.
           05 WS-E-CONT-ORIGEN     PIC 9(9).
-          05 WS-E-CONT-DESTINO    PIC 9(9).                                       05 WS-E-IMPORTE         PIC 9(11)V99.
+          05 WS-E-CONT-DESTINO    PIC 9(9).
+          05 WS-E-IMPORTE         PIC 9(11)V99.
           05 WS-E-DESCRIPCION     PIC X(50).
 
       * CAMPOS DE SALIDA
